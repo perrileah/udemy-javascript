@@ -101,3 +101,15 @@
 // }
 
 // if (favorite !== 23) console.log("Why not 23?");
+
+// Basic Boolean logic
+
+const hasDriversLicense = true;
+const hasGoodVision = true;
+const isTired = true;
+
+if (hasDriversLicense && hasGoodVision && !isTired) {
+  console.log("Sarah is able to drive");
+} else {
+  console.log("Someone else hsould drive...");
+}
