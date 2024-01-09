@@ -30,17 +30,17 @@
 // 1. Printaniceoutputtotheconsole,sayingwhohasthehigherBMI.Themessage is either "Mark's BMI is higher than John's!" or "John's BMI is higher than Mark's!"
 // 2. UseatemplateliteraltoincludetheBMIvaluesintheoutputs.Example:"Mark's BMI (28.3) is higher than John's (23.9)!"
 
-let massMark = 78;
-let heightMark = 1.69;
-let massJohn = 92;
-let heightJohn = 1.95;
+// let massMark = 78;
+// let heightMark = 1.69;
+// let massJohn = 92;
+// let heightJohn = 1.95;
 
-let BMIMark = massMark / (heightMark * heightMark);
+// let BMIMark = massMark / (heightMark * heightMark);
 
-let BMIJohn = massJohn / (heightJohn * heightJohn);
+// let BMIJohn = massJohn / (heightJohn * heightJohn);
 
-if (BMIMark > BMIJohn) {
-  console.log(`Mark's BMI (${BMIMark}) is higher than John's (${BMIJohn})!`);
-} else {
-  console.log(`John's BMI is higher than Mark's!`);
-}
+// if (BMIMark > BMIJohn) {
+//   console.log(`Mark's BMI (${BMIMark}) is higher than John's (${BMIJohn})!`);
+// } else {
+//   console.log(`John's BMI is higher than Mark's!`);
+// }
