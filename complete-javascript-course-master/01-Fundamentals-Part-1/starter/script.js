@@ -104,12 +104,12 @@
 
 // Basic Boolean logic
 
-const hasDriversLicense = true;
-const hasGoodVision = true;
-const isTired = true;
+// const hasDriversLicense = true;
+// const hasGoodVision = true;
+// const isTired = true;
 
-if (hasDriversLicense && hasGoodVision && !isTired) {
-  console.log("Sarah is able to drive");
-} else {
-  console.log("Someone else hsould drive...");
-}
+// if (hasDriversLicense && hasGoodVision && !isTired) {
+//   console.log("Sarah is able to drive");
+// } else {
+//   console.log("Someone else hsould drive...");
+// }
